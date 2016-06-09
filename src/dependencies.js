@@ -6,4 +6,4 @@ import '../node_modules/material-design-lite/dist/material.blue_grey-blue.min.cs
 
 // Stylesheets
 // TODO: Uncomment below once you have actually created main.scss
-//import './assets/styles/main.scss';
+import './assets/styles/main.scss';
